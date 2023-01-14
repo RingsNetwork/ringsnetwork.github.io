@@ -21,13 +21,12 @@ const Main = ({ scrollToRef }: MainProps) => (
     <div className={cn("section", styles.section)}>
         <div className={cn("container", styles.container)}>
             <div className={styles.head}>
-                <div className={styles.stage}>INTRODUCING ONIX</div>
+                <div className={styles.stage}>INTRODUCING RINGS NETWORK</div>
                 <div className={cn("h1", styles.title)}>
-                    Community-owned API&nbsp;of blockchains.
+                The&nbsp;Communication Layer of web3
                 </div>
                 <div className={styles.info}>
-                    Onix delivers tamper-proof inputs, outputs, and computations
-                    to support advanced smart contracts on any blockchain
+                A decentralized peer-to-peer network in browsers. A solution package targeting the next-generation Internet which includes dWeb, anonymous network traffic and private data transaction, etc.
                 </div>
             </div>
             <div className={styles.images}>
