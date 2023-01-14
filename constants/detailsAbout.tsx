@@ -8,18 +8,25 @@ export const details = [
         },
         content: (
             <>
-                <h2>Built by developers, for developers.</h2>
-                <p>
-                    Onix delivers tamper-proof inputs, outputs, and computations
-                    to support advanced smart contracts on any blockchain.
-                </p>
+                <h2>Decentralized Traffic Forwarding</h2>
+                <p>HTTP proxy / IPFS proxy / Blockchain RPC proxy</p>
                 <ul>
-                    <li>Fully benefit from scalable network effects</li>
-                    <li>Inherently more secure than all competitors</li>
-                    <li>More open and powerful with 0.001% downtime</li>
+                    <li>No domain needed</li>
+                    <li>No targeting IP address</li>
+                    <li>No centralized servers</li>
+                    <li>No CDN transfer</li>
+                    <li>Entire supply chain decentralized</li>
                 </ul>
             </>
         ),
+        button1: {
+            text: "launch app",
+            link: "https://ringsnetwork.io",
+        },
+        button2: {
+            text: "Read the docs",
+            link: "https://ringsnetwork.io",
+        },
     },
     {
         image: {
@@ -30,17 +37,31 @@ export const details = [
         },
         content: (
             <>
-                <h2>Top blockchains build on Onix.</h2>
+                <h2>Anonymous Relay Traffic.</h2>
                 <p>
-                    Onix is committed to fostering the growth of Web3
-                    applications by providing the infrastructure and security
-                    needed for Web3.
+                    The original Sender broadcasts the message to linked relayer node.
                 </p>
                 <p>
-                    Onix believes in Web3 for all. Onix is a decentralised
-                    blockchain scaling platform that enables developers to build
-                    scalable user-friendly dApps with low transaction fees
-                    without ever sacrificing on security.
+                    Relayers transfer messages. The receiver decrypts messages and continues to broadcast. Finalized Nodes stop broadcasting at multiple ends.
+                </p>
+            </>
+        ),
+    },
+    {
+        image: {
+            src: "/images/about-pic-3.png",
+            width: 712,
+            height: 682,
+            alt: "Figure",
+        },
+        content: (
+            <>
+                <h2>Cross-chain Atomic Info Swapping Stream</h2>
+                <p>
+                    Rings Network P2P off-Chain stream offers a way to exchange tokens(ERC20/ERC721/etc.) and information across chains.
+                </p>
+                <p>
+                    No additional layer needed. Just a short-lived P2P channel.
                 </p>
             </>
         ),

@@ -16,12 +16,22 @@ const AboutUs = ({}: AboutUsProps) => (
                             {item.content}
                         </div>
                         <div className={styles.line}>
-                            <button className={cn("button", styles.button)}>
-                                <span>launch app</span>
-                            </button>
-                            <button className={styles.document}>
-                                Read the docs
-                            </button>
+                        { item.button1  &&
+                            <a 
+                            className={cn("button", styles.button)}
+                            href={item.button1.link}
+                            target="_blank">
+                                <span>{item.button1.text}</span>
+                            </a>
+                        }
+                        { item.button2  &&
+                            <a 
+                            className={styles.document}
+                            href={item.button2.link}
+                            target="_blank">
+                                {item.button2.text}
+                            </a>
+                        }
                         </div>
                     </div>
                     <div className={styles.preview}>

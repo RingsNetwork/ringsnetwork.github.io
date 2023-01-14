@@ -43,7 +43,7 @@ const Main = ({ scrollToRef }: MainProps) => (
                         className={styles.image}
                         speed={1}
                         easing="easeInQuad"
-                        rotate={index === 2 ? [2, -10] : [-4, 15]}
+                        rotate={index === 2 ? [-10, 10] : [-100, 100]}
                         key={index}
                     >
                         <Image src={image} layout="fill" alt="Figure" />

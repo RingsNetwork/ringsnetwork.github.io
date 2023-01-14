@@ -26,7 +26,7 @@ const Development = ({ scrollToRef }: DevelopmentProps) => {
             ></div>
             <div className={cn("container-wide", styles.container)}>
                 <h2 className={cn("h2", styles.title)}>
-                    Onix makes blockchain development accessible for everyone.
+                    Rings Network makes Internet more fair, independent and private.
                 </h2>
                 <div className={styles.list} {...events} ref={ref}>
                     {development.map((item, index) => (

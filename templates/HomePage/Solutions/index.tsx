@@ -19,11 +19,10 @@ const Solutions = ({}: SolutionsProps) => {
             <div className={cn("container-small", styles.container)}>
                 <div className={styles.head}>
                     <div className={cn("h2", styles.title)}>
-                        Scaling solutions, amplified.
+                        Advanced Features
                     </div>
                     <div className={styles.info}>
-                        Onix&apos;s complete suite of blockchain-scaling
-                        solutions.
+                        Proxied. Anonymous. Stream.
                     </div>
                 </div>
                 <div className={styles.list}>

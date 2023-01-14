@@ -1,25 +1,25 @@
 export const solutions = [
     {
-        title: "Onix Fraktal",
+        title: "Traffic Forwarding",
         content:
-            "EVM-compatible block sidechain, secured by a permissionless set of PoS validators.",
+            "Stand HTTP forwarding including static files, API, etc. TCP & UDP repackage in the future.",
         icon: "/images/icon-1.svg",
         status: "ONLINE",
         color: "#89EB5B",
     },
     {
-        title: "Onix Satchel",
+        title: "Relay for Privacy",
         content:
-            "Create exchanges and marketplaces that allow anyone around the world to invest.",
+            "Provides security-level optional forwarding capabilities for security and privacy.",
         icon: "/images/icon-2.svg",
         status: "ONLINE",
         color: "#89EB5B",
         delay: 200,
     },
     {
-        title: "Onix Shard",
+        title: "Blockchain Stream Tunnel",
         content:
-            "Bring value to gamers by letting them take their loot to another game or into the real world.",
+            "The high-speed p2p atomic stream channel can not only be traded with tokens and NFTs, but also exchanged with cross-chain information.",
         icon: "/images/icon-3.svg",
         status: "ONLINE",
         color: "#89EB5B",

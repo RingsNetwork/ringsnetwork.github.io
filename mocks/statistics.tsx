@@ -1,26 +1,26 @@
 export const statistics = [
     {
-        title: "Contract creators",
-        value: "220K+",
+        title: "Chains supported",
+        value: "50+",
     },
     {
-        title: "Avg. daily gas saved",
-        value: "$110M",
-    },
-    {
-        title: "Active validators",
-        value: "89",
-    },
-    {
-        title: "Unique addresses",
-        value: "90M+",
-    },
-    {
-        title: "Delegators on PoS",
+        title: "Unique address",
         value: "17.5K",
     },
     {
-        title: "Total transactions",
-        value: "4.9B+",
+        title: "TPS",
+        value: "30K+",
+    },
+    {
+        title: "Tx processsing time",
+        value: "200ms",
+    },
+    {
+        title: "Lowest required memory",
+        value: "30MB",
+    },
+    {
+        title: "CPU usage",
+        value: "1%",
     },
 ];
