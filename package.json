@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next build && next export",
     "start": "next start",
     "lint": "next lint"
   },
@@ -12,7 +13,7 @@
     "@n8tb1t/use-scroll-position": "^2.0.3",
     "@types/scroll-lock": "^2.1.0",
     "classnames": "^2.3.1",
-    "next": "12.1.6",
+    "next": "12.3",
     "react": "18.1.0",
     "react-animation-on-scroll": "^5.1.0",
     "react-dom": "18.1.0",
@@ -31,7 +32,7 @@
     "@types/react-dom": "18.0.4",
     "@types/react-transition-group": "^4.4.5",
     "eslint": "8.16.0",
-    "eslint-config-next": "12.1.6",
+    "eslint-config-next": "12.3",
     "typescript": "4.6.4"
   }
 }
