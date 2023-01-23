@@ -15,10 +15,10 @@ const Main = ({}: MainProps) => (
     <div className={styles.section}>
         <div className={cn("container", styles.container)}>
             <div className={styles.wrap}>
-                <div className={styles.stage}>join onix</div>
+                <div className={styles.stage}>Join Rings Network</div>
                 <div className={cn("h1", styles.title)}>We are hiring</div>
                 <div className={styles.info}>
-                    Onix delivers tamper-proof inputs, outputs, and computations
+                    Rings Network delivers tamper-proof inputs, outputs, and computations
                     to support advanced smart contracts on any blockchain
                 </div>
             </div>

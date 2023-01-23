@@ -15,7 +15,7 @@ const Main = ({ scrollToRef }: MainProps) => (
                 <div className={styles.stage}>Contact us</div>
                 <div className={cn("h1", styles.title)}>Let’s chat</div>
                 <div className={styles.info}>
-                    Onix delivers tamper-proof inputs, outputs, and computations
+                    Rings Network delivers tamper-proof inputs, outputs, and computations
                     to support advanced smart contracts on any blockchain
                 </div>
                 <Scroll

@@ -28,13 +28,13 @@ const JoinCommunity = ({ title }: JoinCommunityProps) => (
                         target="_blank"
                         rel="noreferrer"
                     >
-                        how to build on Onix
+                        how to build on Rings Network
                     </a>
                     .
                 </div>
                 <a
                     className={cn("button", styles.button)}
-                    href="https://ui8.net/"
+                    href="https://twitter.com/RingsNetworkio"
                     target="_blank"
                     rel="noopener noreferrer"
                 >

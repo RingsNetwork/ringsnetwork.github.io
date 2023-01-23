@@ -31,10 +31,10 @@ const Community = ({}: CommunityProps) => (
                 <div className={styles.row}>
                     <div className={styles.details}>
                         <div className={cn("h2", styles.title)}>
-                            Onix community
+                            Rings Network community
                         </div>
                         <div className={styles.info}>
-                            Stay current on the latest Onix project.
+                            Stay current on the latest Rings Network project.
                         </div>
                     </div>
                     <Socials

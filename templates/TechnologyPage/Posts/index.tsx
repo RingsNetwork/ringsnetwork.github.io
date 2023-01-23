@@ -37,10 +37,10 @@ const Posts = ({}: PostsProps) => (
         <div className={cn("container", styles.container)}>
             <div className={styles.col}>
                 <div className={cn("h2", styles.title)}>
-                    Your gateway to everything Onix.
+                    Your gateway to everything Rings Network.
                 </div>
                 <div className={styles.content}>
-                    Stay current on the latest Onix project developments, news,
+                    Stay current on the latest Rings Network project developments, news,
                     and content, updated daily.
                 </div>
                 <div className={styles.preview}>

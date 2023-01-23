@@ -4,12 +4,20 @@ export const headerNavigation = [
         url: "/",
     },
     {
+        title: "Rings Paper",
+        url: "/Rings%20Network%20Whitepaper.pdf",
+    },
+    {
+        title: "Deck",
+        url: "/b",
+    },
+    {
         title: "About us",
         url: "/about-us",
     },
     {
         title: "Community",
-        url: "https://ui8.net/",
+        url: "https://twitter.com/RingsNetworkio",
         external: true,
     },
     {
@@ -28,8 +36,16 @@ export const headerNavigation = [
 
 export const footerNavigation = [
     {
+        title: "Rings Paper",
+        url: "/Rings%20Network%20Whitepaper.pdf",
+    },
+    {
+        title: "Deck",
+        url: "/b",
+    },
+    {
         title: "Community",
-        url: "https://ui8.net/",
+        url: "https://twitter.com/RingsNetworkio",
         external: true,
     },
     {

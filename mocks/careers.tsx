@@ -1,42 +1,42 @@
 export const careers = [
     {
-        title: "Visual Designer",
+        title: "Network Layer Developer",
         content:
-            "Stay current on the latest Onix project developments, news, and content, updated daily.",
+            "Develop for Rings Network's core modules.",
+        image: "/images/blog/photo-2.png",
+        status: ["REMOTE", "FULL-TIME"],
+        url: "mailto:hr@ringsnetwork.io",
+    },
+    {
+        title: "Designer",
+        content:
+            "Stay current on the latest Rings Network project developments, news, and content, updated daily.",
         image: "/images/blog/photo-1.png",
         status: ["REMOTE", "FULL-TIME"],
-        url: "https://ui8.net/",
+        url: "mailto:hr@ringsnetwork.io",
     },
     {
         title: "Web3 Developer",
         content:
-            "Stay current on the latest Onix project developments, news, and content, updated daily.",
+            "Stay current on the latest Rings Network project developments, news, and content, updated daily.",
         image: "/images/blog/photo-2.png",
-        status: ["REMOTE", "CONTRACT"],
-        url: "https://ui8.net/",
+        status: ["REMOTE", "FULL-TIME"],
+        url: "mailto:hr@ringsnetwork.io",
     },
     {
         title: "Project Manager",
         content:
-            "Stay current on the latest Onix project developments, news, and content, updated daily.",
+            "Control project progress and formulate project development plan.",
         image: "/images/blog/photo-3.png",
         status: ["REMOTE", "FULL-TIME"],
-        url: "https://ui8.net/",
-    },
-    {
-        title: "3D Illustrator",
-        content:
-            "Stay current on the latest Onix project developments, news, and content, updated daily.",
-        image: "/images/blog/photo-4.png",
-        status: ["REMOTE", "CONTRACT"],
-        url: "https://ui8.net/",
+        url: "mailto:hr@ringsnetwork.io",
     },
     {
         title: "Frontend Developer",
         content:
-            "Stay current on the latest Onix project developments, news, and content, updated daily.",
+            "Rings Network project developments, including websites, browser extensions.",
         image: "/images/blog/photo-1.png",
         status: ["REMOTE", "FULL-TIME"],
-        url: "https://ui8.net/",
+        url: "mailto:hr@ringsnetwork.io",
     },
 ];

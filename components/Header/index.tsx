@@ -41,6 +41,14 @@ const Header = ({}: HeaderProps) => {
                 />
                 <a
                     className={cn("button", styles.button)}
+                    href="/Rings%20Network%20Whitepaper.pdf"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <span>Rings Paper</span>
+                </a>
+                <a
+                    className={cn("button", styles.button)}
                     href="/"
                     target="_blank"
                     rel="noopener noreferrer"

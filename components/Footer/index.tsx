@@ -42,7 +42,7 @@ const Footer = ({}: FooterProps) => (
             </div>
             <div className={styles.row}>
                 <div className={styles.copyright}>
-                    © 2022 Rings Network. All rights reserved.
+                    © 2023 Rings Network. All rights reserved.
                 </div>
                 <div className={styles.documents}>
                     {documents.map((document, index) => (

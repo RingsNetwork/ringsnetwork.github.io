@@ -21,7 +21,7 @@ const Main = ({}: MainProps) => (
                     Everything Onix weekly report
                 </h1>
                 <div className={cn("h4", styles.info)}>
-                    Onix delivers tamper-proof inputs, outputs, and computations
+                    Rings Network delivers tamper-proof inputs, outputs, and computations
                     to support advanced smart contracts on any blockchain
                 </div>
                 <div className={styles.avatar}>

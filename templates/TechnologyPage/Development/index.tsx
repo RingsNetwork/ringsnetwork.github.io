@@ -20,10 +20,10 @@ const Development = ({}: DevelopmentProps) => (
         <div className={cn("container", styles.container)}>
             <div className={styles.head}>
                 <h2 className={cn("h2", styles.title)}>
-                    Onix makes blockchain development accessible for everyone.
+                    Rings Network makes decentralization accessible for everyone.
                 </h2>
                 <div className={styles.info}>
-                    Onix&apos;s complete suite of blockchain-scaling solutions.
+                    Rings Network&apos;s complete suite of decentralizing solutions.
                 </div>
             </div>
             <div className={styles.list}>

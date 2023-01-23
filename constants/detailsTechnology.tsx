@@ -4,13 +4,13 @@ export const details = [
             <>
                 <h2>Scaling solutions, amplified.</h2>
                 <p>
-                    Onix is committed to fostering the growth of Web3
+                    Rings Network is committed to fostering the growth of Web3
                     applications by providing the infrastructure and security
                     needed for Web3.
                 </p>
                 <p>
-                    Onix believes in Web3 for all. Onix is a decentralised
-                    blockchain scaling platform that enables developers.
+                    Rings Network believes in Web3 for all. Rings Network is a decentralized
+                    network platform that enables developers.
                 </p>
             </>
         ),
