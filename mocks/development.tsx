@@ -17,7 +17,7 @@ export const development = [
         url: "/technology",
     },
     {
-        title: "DID as Network Identity",
+        title: "Private key as DID",
         content:
             "Works with all ECDSA chains and wallets. Works with secp256k1 chains(Ethereum, BSC, Avalanche, etc.), ed25519 chains(Solana, Aptos, etc.).",
         image: "/images/development-pic-3.png",
