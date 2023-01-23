@@ -21,42 +21,33 @@ const Details = ({ scrollToRef }: DetailsProps) => {
             <div className={cn("container", styles.container)}>
                 <div className={styles.row}>
                     <div className={styles.col}>
-                        <Form />
-                    </div>
-                    <div className={styles.col}>
                         <div className={styles.item}>
                             <div className={styles.category}>Support</div>
-                            <Link href="mailto:hello@ui8.net">
+                            <Link href="mailto:contact@ringsnetwork.io">
                                 <a className={cn("h5", styles.content)}>
-                                    hello@ui8.net
+                                    contact@ringsnetwork.io
                                 </a>
                             </Link>
-                        </div>
-                        <div className={styles.line}>
-                            <div className={styles.item}>
-                                <div className={styles.category}>Address 1</div>
-                                <div className={cn("h5", styles.content)}>
-                                    <p>4955 Serenity Unions</p>
-                                    <p>Oregon</p>
-                                    <p>Cambridgeshire</p>
-                                </div>
-                            </div>
-                            <div className={styles.item}>
-                                <div className={styles.category}>Address 2</div>
-                                <div className={cn("h5", styles.content)}>
-                                    <p>4955 Serenity Unions</p>
-                                    <p>Oregon</p>
-                                    <p>Dubai</p>
-                                </div>
-                            </div>
                         </div>
                         <div className={styles.item}>
-                            <div className={styles.category}>Phone number</div>
-                            <Link href="tel:+44987456321">
+                            <div className={styles.category}>Twitter</div>
+                            <Link href="https://twitter.com/RingsNetworkio">
                                 <a className={cn("h5", styles.content)}>
-                                    +44 987 456 321
+                                    @RingsNetworkio
                                 </a>
                             </Link>
+                        </div>
+                    </div>
+                    <div className={styles.col}>
+                        <div className={styles.line}>
+                            <div className={styles.item}>
+                                <div className={styles.category}>Address</div>
+                                <div className={cn("h5", styles.content)}>
+                                    <p>2-5-34 Tagawakita, Yodogawa Ward</p>
+                                    <p>Osaka</p>
+                                    <p>Japan</p>
+                                </div>
+                            </div> 
                         </div>
                         <Socials
                             socialClassName={styles.social}

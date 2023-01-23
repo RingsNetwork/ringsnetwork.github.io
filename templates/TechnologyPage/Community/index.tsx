@@ -6,19 +6,19 @@ import { socials } from "@/constants/socials";
 
 const community = [
     {
-        value: "$110M",
+        value: "50+",
         content:
-            "Stay current on the latest Onix project developments, news, and content, updated daily.",
+            "Blockchains wallet and identity supported",
     },
     {
-        value: "90M+",
+        value: "200ms",
         content:
-            "Stay current on the latest Onix project developments, news, and content, updated daily. Stay current on the latest Onix project developments, news, and content, updated daily.",
+            "Transaction processing time",
     },
     {
-        value: "220K+",
+        value: "30K+",
         content:
-            "Stay current on the latest Onix project developments, news, and content, updated daily.",
+            "TPS on a single node, without redundant broadcasting",
     },
 ];
 

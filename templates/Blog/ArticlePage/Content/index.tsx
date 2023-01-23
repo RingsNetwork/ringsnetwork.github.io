@@ -8,14 +8,14 @@ type ContentProps = {};
 const Content = ({}: ContentProps) => (
     <div className={cn("section", styles.section)}>
         <div className={cn("container", styles.container)}>
-            <Card
+            {/* <Card
                 className={styles.card}
                 backgroundCardClass={styles.background}
                 cornerCardClass={styles.corner}
                 squareCardClass={styles.square}
             >
                 <div className={styles.caption}>
-                    Everything Onix weekly report
+                    Everything Rings Network monthly report
                 </div>
                 <div className={styles.video}>
                     <video
@@ -28,18 +28,18 @@ const Content = ({}: ContentProps) => (
                         <source src="/videos/video.mp4" type="video/mp4" />
                     </video>
                 </div>
-            </Card>
+            </Card> */}
             <div className={cn("content", styles.content)}>
                 <section>
                     <h2>Scaling solutions, amplified.</h2>
                     <h3>Built by developers, for developers.</h3>
                     <p>
-                        Onix is committed to fostering the growth of Web3
+                        Rings Network is committed to fostering the growth of Web3
                         applications by providing the infrastructure and
                         security needed for Web3.
                     </p>
                     <p>
-                        Onix believes in Web3 for all. Onix is a decentralised
+                        Rings Network believes in Web3 for all. Rings Network is a decentralised
                         blockchain scaling platform that enables developers to
                         build scalable user-friendly dApps with low transaction
                         fees without ever sacrificing on security.
@@ -54,17 +54,17 @@ const Content = ({}: ContentProps) => (
                     </figure>
                 </section>
                 <section>
-                    <h2>Everything Onix weekly report</h2>
+                    <h2>Rings Network monthly weekly report</h2>
                     <h3>Built by developers, for developers.</h3>
                     <p>
-                        Onix is committed to fostering the growth of Web3
+                        Rings Network is committed to fostering the growth of Web3
                         applications by providing the infrastructure and
-                        security needed for Web3. “Onix accelerated our
+                        security needed for Web3. “Rings Network accelerated our
                         development process tenfold all while maintaining
                         security and integrity from production to post launch”
                     </p>
                     <p>
-                        Onix believes in Web3 for all. Onix is a decentralised
+                        Rings Network believes in Web3 for all. Rings Network is a decentralised
                         blockchain scaling platform that enables developers to
                         build scalable user-friendly dApps with low transaction
                         fees without ever sacrificing on security.
@@ -87,12 +87,12 @@ const Content = ({}: ContentProps) => (
                     <h2>Scaling solutions, amplified.</h2>
                     <h3>Built by developers, for developers.</h3>
                     <p>
-                        Onix is committed to fostering the growth of Web3
+                        Rings Network is committed to fostering the growth of Web3
                         applications by providing the infrastructure and
                         security needed for Web3.
                     </p>
                     <p>
-                        Onix believes in Web3 for all. Onix is a decentralised
+                        Rings Network believes in Web3 for all. Rings Network is a decentralised
                         blockchain scaling platform that enables developers to
                         build scalable user-friendly dApps with low transaction
                         fees without ever sacrificing on security.

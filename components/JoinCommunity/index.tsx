@@ -40,6 +40,15 @@ const JoinCommunity = ({ title }: JoinCommunityProps) => (
                 >
                     <span>JOIN THE COMMUNITY</span>
                 </a>
+                <span> </span>
+                <a
+                    className={cn("button", styles.button)}
+                    href="/Rings%20Network%20Whitepaper.pdf"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <span>DOWNLOAD THE WHITEPAPER</span>
+                </a>
             </div>
         </div>
         <div className={styles.images}>

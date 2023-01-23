@@ -13,23 +13,21 @@ const Details = ({ scrollToRef }: DetailsProps) => (
         <div className={cn("anchor", styles.anchor)} ref={scrollToRef}></div>
         <div className={cn("container", styles.container)}>
             <div className={styles.details}>
-                <div className={styles.counter}>1M</div>
-                <div className={cn("h4", styles.info)}>Onix’s users</div>
+                <div className={styles.counter}>2^160</div>
+                <div className={cn("h4", styles.info)}>Max Nodes</div>
             </div>
             <div className={styles.wrap}>
                 <div className={cn("content", styles.content)}>
                     <h2>Scaling solutions, amplified.</h2>
                     <h3>Built by developers, for developers.</h3>
                     <p>
-                        Onix is committed to fostering the growth of Web3
+                        Rings Network is committed to fostering the growth of Web3
                         applications by providing the infrastructure and
                         security needed for Web3.
                     </p>
                     <p>
-                        Onix believes in Web3 for all. Onix is a decentralised
-                        blockchain scaling platform that enables developers to
-                        build scalable user-friendly dApps with low transaction
-                        fees without ever sacrificing on security.
+                        Rings Network believes in Web3 for all. Rings Network is a decentralized
+                        network platform that enables developers.
                     </p>
                 </div>
                 <Link href="/contact">

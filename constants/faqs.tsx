@@ -1,17 +1,17 @@
 export const faqs = [
     {
-        title: "Who can join the project?",
+        title: "What is Rings Network?",
         content:
-            "Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes. Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes. Stay current on the latest Onix project developments, news, and content, updated daily. Stay current on the latest Onix project developments, news, and content, updated daily.",
+            "Rings Network is the communication layer of web3. It's a decentralized peer-to-peer network in browsers. A solution package targeting the next-generation Internet which includes dWeb, anonymous network traffic and private data transaction, etc.",
     },
     {
-        title: "What is On-point service",
+        title: "How can I access Rings Network?",
         content:
-            "Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes. Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes. Stay current on the latest Onix project developments, news, and content, updated daily. Stay current on the latest Onix project developments, news, and content, updated daily.",
+            "You can access Rings Network in any modern browser with a blockchain wallet. Sometimes even you don't feel it.",
     },
     {
-        title: "What is UI8",
+        title: "How can I develop on Rings Network?",
         content:
-            "Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes. Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes. Stay current on the latest Onix project developments, news, and content, updated daily. Stay current on the latest Onix project developments, news, and content, updated daily.",
+            "Please refer to our doc, GitHub, and Discord. Everyone can host a Rings node and become a part of new open Internet.",
     },
 ];

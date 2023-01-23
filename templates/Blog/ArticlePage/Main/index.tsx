@@ -18,7 +18,7 @@ const Main = ({}: MainProps) => (
                     </div>
                 </div>
                 <h1 className={cn("h1", styles.title)}>
-                    Everything Onix weekly report
+                    Everything Rings Network monthly report
                 </h1>
                 <div className={cn("h4", styles.info)}>
                     Rings Network delivers tamper-proof inputs, outputs, and computations

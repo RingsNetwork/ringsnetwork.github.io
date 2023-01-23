@@ -8,21 +8,21 @@ import { hexToRgbA } from "@/utils/index";
 
 const list = [
     {
-        title: "Everything Onix weekly report",
+        title: "Everything Rings Network monthly report",
         status: "UPDATES",
         date: "08/11/2022",
         color: "#EB5BE5",
         url: "/blog/article",
     },
     {
-        title: "Everything Onix weekly report",
+        title: "Everything Rings Network monthly report",
         status: "UPDATES",
         date: "08/11/2022",
         color: "#6F5BEB",
         url: "/blog/article",
     },
     {
-        title: "Everything Onix weekly report",
+        title: "Everything Rings Network monthly report",
         status: "NEW RELEASE",
         date: "08/11/2022",
         color: "#89EB5B",

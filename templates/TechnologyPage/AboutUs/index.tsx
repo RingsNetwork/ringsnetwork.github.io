@@ -3,8 +3,8 @@ import styles from "./AboutUs.module.sass";
 import Image from "@/components/Image";
 
 const list = [
-    "Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes.",
-    "Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes.",
+    "Your data can be transformed, organized, and shared across the whole network safely.",
+    "Peer-to-peer accessible for everyone without dedicated software. Just a browser.",
 ];
 
 type AboutUsProps = {};
@@ -18,7 +18,7 @@ const AboutUs = ({}: AboutUsProps) => (
                         Stay up to date on everything
                     </div>
                     <div className={styles.info}>
-                        Stay current on the latest Onix project developments,
+                        Stay current on the latest Rings Network project developments,
                         news, and content, updated daily.
                     </div>
                     <div className={styles.list}>

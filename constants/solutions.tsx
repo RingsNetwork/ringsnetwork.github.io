@@ -26,28 +26,28 @@ export const solutions = [
         delay: 400,
     },
     {
-        title: "Onix Lancer",
+        title: "Chord DHT",
         content:
-            "Cryptographic proofs to connect highly accurate and available data/APIs to any smart contract.",
+            "The global Chord DHT in Rings Network stores system shared data.",
         icon: "/images/icon-4.svg",
-        status: "DEVELOPMENT",
+        status: "ONLINE",
         color: "#EBB15B",
     },
     {
-        title: "Onix Echo",
+        title: "Blockchain Integration",
         content:
-            "Empower your community to organize and allocate resources to its members. ",
+            "Rings Network chain part will be deployed on the Ethereum main network, Layer 2 networks, Aptos, Solana, Fantom, etc.",
         icon: "/images/icon-5.svg",
-        status: "DEVELOPMENT",
+        status: "ONLINE",
         color: "#EBB15B",
         delay: 200,
     },
     {
-        title: "Onix Epoc",
+        title: "Sub-Rings",
         content:
-            "Protect dApps from insolvency by auditing the reserves of tokens used as collateral.",
+            "Upper layer developers can design their own subring and DHT schemes, and user nodes can add one or more special-purpose subrings. ",
         icon: "/images/icon-6.svg",
-        status: "VOTING",
+        status: "DEVELOPMENT",
         color: "#6F5BEB",
         delay: 400,
     },

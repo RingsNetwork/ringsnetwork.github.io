@@ -6,17 +6,17 @@ import { hexToRgbA } from "@/utils/index";
 
 const list = [
     {
-        title: "Everything Onix weekly report",
+        title: "Everything Rings Network monthly report",
         status: "TAG LINE",
         color: "#EB5BE5",
     },
     {
-        title: "Everything Onix weekly report",
+        title: "Everything Rings Network monthly report",
         status: "TAG LINE",
         color: "#6F5BEB",
     },
     {
-        title: "Everything Onix weekly report",
+        title: "Everything Rings Network monthly report",
         status: "TAG LINE",
         color: "#89EB5B",
     },
@@ -31,13 +31,11 @@ const Values = ({}: ValuesProps) => (
                 <div className={styles.col}>
                     <div className={cn("h3", styles.subtitle)}>Our values</div>
                     <div className={cn("h2", styles.title)}>
-                        Next-gen for&nbsp;top blockchain
+                        Next-gen p2p network
                     </div>
                     <div className={styles.content}>
-                        Onix believes in Web3 for all. Onix is a decentralised
-                        blockchain scaling platform that enables developers to
-                        build scalable user-friendly dApps with low transaction
-                        fees without ever sacrificing on security.
+                        Rings Network believes in Web3 for all. Rings Network is a decentralized
+                        network platform that enables developers.
                     </div>
                     <button className={cn("button", styles.button)}>
                         <span>launch app</span>

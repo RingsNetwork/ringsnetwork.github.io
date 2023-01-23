@@ -21,11 +21,10 @@ const Main = ({ scrollToRef }: MainProps) => (
             <div className={styles.wrap}>
                 <div className={styles.stage}>technology</div>
                 <div className={cn("h1", styles.title)}>
-                    Built by developers, for developers.
+                    Built by developers, for everyone.
                 </div>
                 <div className={styles.info}>
-                    Rings Network delivers tamper-proof inputs, outputs, and computations
-                    to support advanced smart contracts on any blockchain
+                Rings Network provides tamper-proof input, output and private communication, supports identity authentication on any blockchain, and creates a peer-to-peer blockchain parallel communication channel
                 </div>
             </div>
             <div className={styles.images}>

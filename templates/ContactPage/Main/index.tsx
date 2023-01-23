@@ -21,7 +21,7 @@ const Main = ({ scrollToRef }: MainProps) => (
                 <Scroll
                     className={styles.scroll}
                     mouseClassName={styles.mouse}
-                    title="WRITE SOMETHING"
+                    title="REACH US"
                     onScroll={() =>
                         scrollToRef.current.scrollIntoView({
                             behavior: "smooth",
