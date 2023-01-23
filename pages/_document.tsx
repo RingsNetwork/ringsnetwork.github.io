@@ -19,7 +19,7 @@ class MyDocument extends Document {
                     <meta content="Rings Network, a decentralized peer-to-peer network in browsers." name="Rings Network - The Communication Layer of web3" />
                     <meta content="Rings Network - The Communication Layer of web3" property="og:title" />
                     <meta content="Rings Network - The Communication Layer of web3. A decentralized peer-to-peer network in browsers. A solution package targeting the next-generation Internet which includes dWeb, anonymous network traffic and private data transaction, etc." property="og:description" />
-                    <meta content="%PUBLIC_URL%/fb-og-image.png" property="og:image" />
+                    <meta content="%PUBLIC_URL%/fb-og-image.jpg" property="og:image" />
                     <meta property="og:url" content="https://ringsnetwork.io" />
                     <meta property="og:site_name" content="Rings Network - The Communication Layer of web3" />
                     <meta content="Rings Network - The Communication Layer of web3" property="twitter:title" />
