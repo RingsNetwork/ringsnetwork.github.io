@@ -26,8 +26,26 @@ const Main = ({ scrollToRef }: MainProps) => (
                 The&nbsp;Communication Layer of web3
                 </div>
                 <div className={styles.info}>
-                A decentralized peer-to-peer network in browsers. A solution package targeting the next-generation Internet which includes dWeb, anonymous network traffic and private data transaction, etc.
+                A decentralized peer-to-peer network in browsers. A solution package targeting the next-gen Internet including dWeb, anonymous traffic, etc.
                 </div>
+                <br />
+                <a
+                    className={cn("button", styles.button)}
+                    href="/Rings%20Network%20Whitepaper.pdf"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <span>Rings Paper</span>
+                </a>
+                <span> </span>
+                <a
+                    className={cn("button", styles.button)}
+                    href="https://twitter.com/RingsNetworkio"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <span>follow us</span>
+                </a>
             </div>
             <div className={styles.images}>
                 <div className={styles.image}>
