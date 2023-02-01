@@ -8,8 +8,8 @@ export const statistics = [
         value: "17.5K",
     },
     {
-        title: "TPS",
-        value: "30K+",
+        title: "Network Fault Tolerance",
+        value: "95%, 0.015%",
     },
     {
         title: "Tx processsing time",

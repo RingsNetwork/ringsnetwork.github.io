@@ -16,9 +16,9 @@ const community = [
             "Transaction processing time",
     },
     {
-        value: "30K+",
+        value: "95%, 0.015%",
         content:
-            "TPS on a single node, without redundant broadcasting",
+            "Network Fault Tolerance",
     },
 ];
 

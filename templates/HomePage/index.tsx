@@ -28,7 +28,7 @@ const HomePage = () => {
                 info="Stay current on the latest Rings Network project developments, news, and content, updated daily."
                 posts={posts}
             />
-            <Reviews reviews={reviews} />
+            {/* <Reviews reviews={reviews} /> */}
             <JoinCommunity title="Want to get involved?" />
         </Layout>
     );

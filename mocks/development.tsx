@@ -29,33 +29,33 @@ export const development = [
 
 export const developmentTechnology = [
     {
-        title: "Globally-accesible, transformational API",
+        title: "Sidecar Orderer",
         content:
-            "Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes.",
+            "The Rings network itself does not contain a consensus layer, but it can still achieve BFT through the use of a Sidecar Orderer that orders each set of messages and determines causality.",
         image: "/images/development-pic-3.png",
         color: "#6F5BEB",
         url: "/technology",
     },
     {
-        title: "Resilient, automated layer security",
+        title: "Crypto Native",
         content:
-            "Empower your blockchain security without sacrificing crucial resources and accessibility to its members.",
+            "Rings network not only offers end-to-end encryption, but also enables interactive features that make many amazing functions possible, such as SSSS (Secret Sharing Scheme). This allows a secret to be divided into multiple parts, and only revealed when a certain number of participants (typically 2/3) are present. This is commonly used for private key recovery and account abstraction based on social networks.",
         image: "/images/development-pic-2.png",
         color: "#89EB5B",
         url: "/technology",
     },
     {
-        title: "Seamless connection to any API tools",
+        title: "Interactive",
         content:
-            "Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes.",
+            "Due to the lack of real distributed interactive channels, many cryptographic algorithms in the real world have very low performance and often require the Fiat-Shamir transformation. Rings Network greatly improves the performance of many interactive cryptographic algorithms, such as zero-knowledge proof or atomic swap.",
         image: "/images/development-pic-5.png",
         color: "#E87A95",
         url: "/technology",
     },
     {
-        title: "Reliable, tamper-proof network",
+        title: "Sovereign web",
         content:
-            "Use cryptographic proofs to connect highly accurate and available data/APIs to any smart contract.",
+            "With Rings Network, you can easily host data/services/web setups and it will obfuscate traffic and resist censorship.",
         image: "/images/development-pic-1.png",
         color: "#EBB15B",
         url: "/technology",
