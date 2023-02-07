@@ -24,7 +24,7 @@ const TechnologyPage = () => {
             <AboutUs />
             <Posts />
             <Faq />
-            <Reviews reviews={reviews} />
+            {/* <Reviews reviews={reviews} /> */}
             <JoinCommunity title="Download our whitepaper" />
         </Layout>
     );
