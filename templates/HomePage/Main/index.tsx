@@ -31,7 +31,7 @@ const Main = ({ scrollToRef }: MainProps) => (
                 <br />
                 <a
                     className={cn("button", styles.button)}
-                    href="/Rings%20Network%20Whitepaper.pdf"
+                    href="https://github.com/RingsNetwork/whitepaper/raw/master/rings.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                 >

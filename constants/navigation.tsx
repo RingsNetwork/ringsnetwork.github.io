@@ -5,7 +5,7 @@ export const headerNavigation = [
     },
     {
         title: "Rings Paper",
-        url: "/Rings%20Network%20Whitepaper.pdf",
+        url: "https://github.com/RingsNetwork/whitepaper/raw/master/rings.pdf",
     },
     {
         title: "Deck",
@@ -37,7 +37,7 @@ export const headerNavigation = [
 export const footerNavigation = [
     {
         title: "Rings Paper",
-        url: "/Rings%20Network%20Whitepaper.pdf",
+        url: "https://github.com/RingsNetwork/whitepaper/raw/master/rings.pdf",
     },
     {
         title: "Deck",
