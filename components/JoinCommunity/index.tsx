@@ -4,11 +4,11 @@ import styles from "./JoinCommunity.module.sass";
 import Image from "@/components/Image";
 
 const images = [
-    "/images/figures/figure-1.png",
-    "/images/figures/figure-2.png",
+    "/images/figures/figure-new-1.png",
+    "/images/figures/figure-new-2.png",
     "/images/join/image-3.svg",
-    "/images/figures/figure-5.png",
-    "/images/figures/figure-6.png",
+    "/images/figures/figure-new-5.png",
+    "/images/figures/figure-new-6.png",
 ];
 
 type JoinCommunityProps = {

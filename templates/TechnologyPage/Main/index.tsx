@@ -5,10 +5,10 @@ import Image from "@/components/Image";
 import Scroll from "@/components/Scroll";
 
 const images = [
-    "/images/figures/figure-11.png",
-    "/images/figures/figure-12.png",
-    "/images/figures/figure-13.png",
-    "/images/figures/figure-14.png",
+    "/images/figures/figure-new-11.png",
+    "/images/figures/figure-new-12.png",
+    "/images/figures/figure-new-13.png",
+    "/images/figures/figure-new-14.png",
 ];
 
 type MainProps = {

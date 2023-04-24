@@ -1,7 +1,7 @@
 export const details = [
     {
         image: {
-            src: "/images/about-pic-1.png",
+            src: "/images/about-pic-new-1.png",
             width: 712,
             height: 712,
             alt: "Figure",
@@ -30,7 +30,7 @@ export const details = [
     },
     {
         image: {
-            src: "/images/about-pic-2.png",
+            src: "/images/about-pic-new-2.png",
             width: 712,
             height: 682,
             alt: "Figure",
@@ -49,7 +49,7 @@ export const details = [
     },
     {
         image: {
-            src: "/images/about-pic-3.png",
+            src: "/images/about-pic-new-3.png",
             width: 712,
             height: 682,
             alt: "Figure",

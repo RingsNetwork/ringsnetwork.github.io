@@ -45,7 +45,7 @@ const Posts = ({}: PostsProps) => (
                 </div>
                 <div className={styles.preview}>
                     <Image
-                        src="/images/about-pic-3.png"
+                        src="/images/about-pic-new-3.png"
                         width={712}
                         height={729}
                         alt="Figure"

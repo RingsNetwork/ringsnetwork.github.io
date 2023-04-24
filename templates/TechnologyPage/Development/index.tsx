@@ -8,9 +8,9 @@ import Icon from "@/components/Icon";
 import { developmentTechnology } from "@/mocks/development";
 
 const images = [
-    "/images/figures/figure-7.png",
-    "/images/figures/figure-9.png",
-    "/images/figures/figure-1.png",
+    "/images/figures/figure-new-7.png",
+    "/images/figures/figure-new-9.png",
+    "/images/figures/figure-new-1.png",
 ];
 
 type DevelopmentProps = {};

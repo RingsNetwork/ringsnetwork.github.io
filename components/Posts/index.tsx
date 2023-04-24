@@ -96,7 +96,7 @@ const Posts = ({ className, title, info, posts, background }: PostsProps) => (
                 rotate={[2, -10]}
             >
                 <Image
-                    src="/images/figures/figure-10.png"
+                    src="/images/figures/figure-new-10.png"
                     width={696}
                     height={696}
                     alt="Spike"

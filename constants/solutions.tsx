@@ -55,19 +55,19 @@ export const solutions = [
 
 export const images = [
     {
-        src: "/images/figures/figure-7.png",
+        src: "/images/figures/figure-new-7.png",
         width: 463,
         height: 463,
         alt: "Figure",
     },
     {
-        src: "/images/figures/figure-8.png",
+        src: "/images/figures/figure-new-8.png",
         width: 1006,
         height: 1006,
         alt: "Figure",
     },
     {
-        src: "/images/figures/figure-9.png",
+        src: "/images/figures/figure-new-9.png",
         width: 450,
         height: 450,
         alt: "Figure",

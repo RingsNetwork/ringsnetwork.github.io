@@ -42,7 +42,7 @@ const AboutUs = ({}: AboutUsProps) => (
                 </div>
                 <div className={styles.preview}>
                     <Image
-                        src="/images/about-pic-2.png"
+                        src="/images/about-pic-new-2.png"
                         width={712}
                         height={682}
                         alt="Figure"

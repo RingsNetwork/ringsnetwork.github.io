@@ -3,7 +3,7 @@ export const development = [
         title: "Decentralized P2P",
         content:
             "Rings Network is a peer-to-peer private communication network, enabling users to interact among Web3 and Web2 applications.",
-        image: "/images/development-pic-1.png",
+        image: "/images/development-pic-new-1.png",
         color: "#6F5BEB",
         url: "/technology",
     },
@@ -11,7 +11,7 @@ export const development = [
         title: "Works in Browsers",
         content:
             "Full features node SDK for all modern browsers. Connect a full node with your web page in a minute.",
-        image: "/images/development-pic-2.png",
+        image: "/images/development-pic-new-2.png",
         color: "#EBB15B",
         delay: 150,
         url: "/technology",
@@ -20,7 +20,7 @@ export const development = [
         title: "Private key as DID",
         content:
             "Works with all ECDSA chains and wallets. Works with secp256k1 chains(Ethereum, BSC, Avalanche, etc.), ed25519 chains(Solana, Aptos, etc.).",
-        image: "/images/development-pic-3.png",
+        image: "/images/development-pic-new-3.png",
         color: "#89EB5B",
         delay: 300,
         url: "/technology",
