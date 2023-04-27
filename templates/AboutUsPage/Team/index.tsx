@@ -24,54 +24,6 @@ const Team = ({}: TeamProps) => {
                         Built by developers, for&nbsp;developers.
                     </div>
                 </div>
-                <div className={styles.list}>
-                    {team.map((man, index) => (
-                        <AnimationOnScroll
-                            className={styles.item}
-                            animateIn="fadeInDown"
-                            delay={isMobile ? 0 : man.delay}
-                            key={index}
-                            animateOnce
-                        >
-                            <div
-                                className={styles.square}
-                                style={{
-                                    backgroundColor: man.color || "#89EB5B",
-                                }}
-                            ></div>
-                            <div className={styles.photo}>
-                                <div className={styles.inner}>
-                                    <Image
-                                        src={man.photo}
-                                        layout="fill"
-                                        objectFit="cover"
-                                        alt="Avatar"
-                                    />
-                                </div>
-                                <svg
-                                    width="0"
-                                    height="0"
-                                    style={{ display: "block" }}
-                                >
-                                    <clipPath
-                                        id="polygonPhoto"
-                                        clipPathUnits="objectBoundingBox"
-                                    >
-                                        <path d="M1 1V.215C1 .196.993.177.98.162L.851.023C.838.008.819 0 .8 0H0v1" />
-                                    </clipPath>
-                                </svg>
-                            </div>
-                            <div className={styles.details}>
-                                <div className={cn("h4", styles.name)}>
-                                    {man.name}
-                                </div>
-                                <div className={styles.position}>
-                                    {man.position}
-                                </div>
-                            </div>
-                        </AnimationOnScroll>
-                    ))}
-                </div>
             </div>
         </div>
     );
