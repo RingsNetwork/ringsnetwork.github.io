@@ -27,18 +27,6 @@ const Testimonial = ({}: TestimonialProps) => (
                         while maintaining security and integrity from production
                         to post launch”
                     </div>
-                    <div className={styles.avatar}>
-                        <Image
-                            src="/images/avatar-2.jpg"
-                            layout="fill"
-                            objectFit="cover"
-                            alt="Avatar"
-                        />
-                    </div>
-                    <div className={styles.author}>Becky Stal</div>
-                    <div className={styles.position}>
-                        Sr. Engineer - FauxChain
-                    </div>
                 </div>
                 <div className={styles.images}>
                     <div className={styles.image}>

@@ -24,16 +24,6 @@ const Main = ({}: MainProps) => (
                     Rings Network delivers tamper-proof inputs, outputs, and computations
                     to support advanced smart contracts on any blockchain
                 </div>
-                <div className={styles.avatar}>
-                    <Image
-                        src="/images/avatar-2.jpg"
-                        layout="fill"
-                        objectFit="cover"
-                        alt="Avatar"
-                    />
-                </div>
-                <div className={styles.author}>Becky Stal</div>
-                <div className={styles.position}>Sr. Engineer - FauxChain</div>
             </div>
         </div>
         <div className={styles.lines}>
