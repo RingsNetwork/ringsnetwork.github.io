@@ -34,11 +34,11 @@ const Header = ({}: HeaderProps) => {
                 data-scroll-lock-fill-gap
             >
                 <Logo className={styles.logo} />
-                <Menu
+                {/* <Menu
                     navigation={headerNavigation}
                     socials={socials}
                     onClick={() => setOpen(!open)}
-                />
+                    /> */}
                 <a
                     className={cn("button", styles.button)}
                     href="https://github.com/RingsNetwork/whitepaper/raw/master/rings.pdf"

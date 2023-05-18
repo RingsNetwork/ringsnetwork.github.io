@@ -51,27 +51,27 @@ const JoinCommunity = ({ title }: JoinCommunityProps) => (
                 </a>
             </div>
         </div>
-        <div className={styles.images}>
+        {/* <div className={styles.images}>
             <div className={styles.image}>
-                <Image
-                    src="/images/join/lines.svg"
-                    width={1744}
-                    height={700}
-                    alt="Figure"
-                />
+            <Image
+            src="/images/join/lines.svg"
+            width={1744}
+            height={700}
+            alt="Figure"
+            />
             </div>
             {images.map((image, index) => (
-                <Parallax
-                    className={styles.image}
-                    speed={1}
-                    easing="easeInQuad"
-                    rotate={index === 2 ? [2, -20] : [-4, 15]}
-                    key={index}
-                >
-                    <Image src={image} layout="fill" alt="Figure" />
-                </Parallax>
+            <Parallax
+            className={styles.image}
+            speed={1}
+            easing="easeInQuad"
+            rotate={index === 2 ? [2, -20] : [-4, 15]}
+            key={index}
+            >
+            <Image src={image} layout="fill" alt="Figure" />
+            </Parallax>
             ))}
-        </div>
+            </div> */}
     </div>
 );
 
