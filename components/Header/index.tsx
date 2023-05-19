@@ -41,20 +41,28 @@ const Header = ({}: HeaderProps) => {
                     /> */}
                 <a
                     className={cn("button", styles.button)}
+                    href="https://medium.com/@ringsnetwork"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <span>Rings Blog</span>
+                </a>
+                <a
+                    className={cn("button", styles.button)}
                     href="https://github.com/RingsNetwork/whitepaper/raw/master/rings.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
                     <span>Rings Paper</span>
                 </a>
-                <a
+                {/* <a
                     className={cn("button", styles.button)}
                     href=""
                     target="_blank"
                     rel="noopener noreferrer"
-                >
+                    >
                     <span>launch app</span>
-                </a>
+                    </a> */}
             </div>
         </header>
     );
